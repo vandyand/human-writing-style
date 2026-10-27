@@ -51,3 +51,7 @@ For agents with no skill system, paste the body of `SKILL.md` (below the `---` f
 2. Copy `references/corrections.template.md` to `references/corrections.md` and add an entry each time you fix a draft.
 3. Replace the example anecdotes in `references/style-guide.md` with your own as you collect real edits. Your corrections always beat the defaults.
 4. If you update the package and send it to someone else, remove your `profile.md` and `corrections.md` first.
+
+## License
+
+MIT, see `LICENSE`.
